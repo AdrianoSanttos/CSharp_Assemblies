@@ -1,0 +1,6 @@
+D:\VisualStudio\Projetos\Exemplo2\bin\Debug\Exemplo2.exe.config
+D:\VisualStudio\Projetos\Exemplo2\bin\Debug\Exemplo2.exe
+D:\VisualStudio\Projetos\Exemplo2\bin\Debug\Exemplo2.pdb
+D:\VisualStudio\Projetos\Exemplo2\obj\Debug\Exemplo2.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Projetos\Exemplo2\obj\Debug\Exemplo2.exe
+D:\VisualStudio\Projetos\Exemplo2\obj\Debug\Exemplo2.pdb
